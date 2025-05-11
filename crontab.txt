@@ -1,0 +1,1 @@
+*/15 * * * * /home/kali/working_dir/starter.sh >>/home/kali/working_dir/log.txt 2>&1

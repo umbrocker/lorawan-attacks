@@ -1,0 +1,9 @@
+# átváltás root felhasználóra
+sudo su
+# tűzfal szabályok a LoRaWAN UDP csomagok blokkolására
+iptables -A INPUT -p udp --dport 1700 -j DROP
+iptables -A FORWARD -p udp --dport 1700 -j DROP
+iptables -A INPUT -p udp --sport 1700 -j DROP
+iptables -A FORWARD -p udp --sport 1700 -j DROP
+# OS szintű IP csomag továbbítás tiltása
+echo 0 > /proc/sys/net/ipv4/ip_forward
