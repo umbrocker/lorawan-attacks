@@ -12,4 +12,7 @@
     - [iptables.txt](iptables.txt)
     - [crontab.txt](crontab.txt)
     - [venv.sh](venv.sh)
-- 6.3 alfejezet: [analyze_traffic_ver04_final.py](analyze_traffic_ver04_final.py)
+- 6.3 alfejezet: 
+    - [analyze_traffic_ver04_final.py](analyze_traffic_ver04_final.py)
+    - [decode_sensor_data.py](decode_sensor_data.py)
+    - [loracrack_install.sh](loracrack_install.sh)
