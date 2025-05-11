@@ -16,3 +16,7 @@
     - [analyze_traffic_ver04_final.py](analyze_traffic_ver04_final.py)
     - [decode_sensor_data.py](decode_sensor_data.py)
     - [loracrack_install.sh](loracrack_install.sh)
+    - [chirp_attack_scapy_ver05_remote.py](chirp_attack_scapy_ver05_remote.py)
+    - [client.py](client.py)
+    - [server.py](server.py)
+    - [analyze_traffic_remote02.py](analyze_traffic_remote02.py)
