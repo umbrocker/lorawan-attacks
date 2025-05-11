@@ -8,7 +8,8 @@
 - 5.3 alfejezet: chirp_attack_scapy.py
 - 6.2 alfejezet: 
     - chirp_attack_scapy_ver05.py
-    - starter.sh 
+    - [starter.sh](starter.sh)
     - iptables.txt
     - crontab.txt
     - venv.sh
+- 6.3 alfejezet: analyze_traffic_ver04_final.py
