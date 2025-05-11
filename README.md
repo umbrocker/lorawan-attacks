@@ -3,9 +3,13 @@
 ## A repo-ban található szkriptek a készülő szakdolgozatomhoz tartoznak.
 
 ### A különböző alfejezetekhez tartozó szkriptek és egyéb fájlok
-- 4.3 alfejezet: [traffic_analyzer.py](traffic_analyzer.py)
-- 5.2 alfejezet: [chirp_dos.py](chirp_dos.py)
-- 5.3 alfejezet: [chirp_attack_scapy.py](chirp_attack_scapy.py)
+
+- 4.3 alfejezet: 
+    - [traffic_analyzer.py](traffic_analyzer.py)
+- 5.2 alfejezet: 
+    - [chirp_dos.py](chirp_dos.py)
+- 5.3 alfejezet: 
+    - [chirp_attack_scapy.py](chirp_attack_scapy.py)
 - 6.2 alfejezet: 
     - [chirp_attack_scapy_ver05.py](chirp_attack_scapy_ver05.py)
     - [starter.sh](starter.sh)
